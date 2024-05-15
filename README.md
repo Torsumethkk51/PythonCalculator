@@ -12,5 +12,5 @@ In this project I used "Tkinter" to made the UI of this game And use "auto-py-to
 ## Download this application
 https://drive.google.com/file/d/1IUqgnmIgkDNyl1B-w6i9ZvzJQfvVcp81/view?usp=sharing
 
-## Disclaimer!
+## Caution !
 This project is Beta maybe found some bug!
